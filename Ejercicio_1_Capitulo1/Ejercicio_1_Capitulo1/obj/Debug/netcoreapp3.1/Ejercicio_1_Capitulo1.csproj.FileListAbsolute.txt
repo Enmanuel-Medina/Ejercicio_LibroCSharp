@@ -1,0 +1,13 @@
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\bin\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.exe
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\bin\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.deps.json
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\bin\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.runtimeconfig.json
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\bin\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.runtimeconfig.dev.json
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\bin\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.dll
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\bin\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.pdb
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\obj\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.csprojAssemblyReference.cache
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\obj\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.csproj.CoreCompileInputs.cache
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\obj\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.AssemblyInfoInputs.cache
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\obj\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.AssemblyInfo.cs
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\obj\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.dll
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\obj\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.pdb
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio_1_Capitulo1\Ejercicio_1_Capitulo1\obj\Debug\netcoreapp3.1\Ejercicio_1_Capitulo1.genruntimeconfig.cache

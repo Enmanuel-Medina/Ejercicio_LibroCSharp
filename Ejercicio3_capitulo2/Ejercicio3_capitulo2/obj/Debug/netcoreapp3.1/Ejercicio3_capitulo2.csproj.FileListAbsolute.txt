@@ -1,0 +1,13 @@
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\obj\Debug\netcoreapp3.1\Ejercicio3_capitulo2.csprojAssemblyReference.cache
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\obj\Debug\netcoreapp3.1\Ejercicio3_capitulo2.csproj.CoreCompileInputs.cache
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\obj\Debug\netcoreapp3.1\Ejercicio3_capitulo2.AssemblyInfoInputs.cache
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\obj\Debug\netcoreapp3.1\Ejercicio3_capitulo2.AssemblyInfo.cs
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\bin\Debug\netcoreapp3.1\Ejercicio3_capitulo2.exe
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\bin\Debug\netcoreapp3.1\Ejercicio3_capitulo2.deps.json
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\bin\Debug\netcoreapp3.1\Ejercicio3_capitulo2.runtimeconfig.json
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\bin\Debug\netcoreapp3.1\Ejercicio3_capitulo2.runtimeconfig.dev.json
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\bin\Debug\netcoreapp3.1\Ejercicio3_capitulo2.dll
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\bin\Debug\netcoreapp3.1\Ejercicio3_capitulo2.pdb
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\obj\Debug\netcoreapp3.1\Ejercicio3_capitulo2.dll
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\obj\Debug\netcoreapp3.1\Ejercicio3_capitulo2.pdb
+C:\Users\Nurias\source\repos\Ejercicio_LibroCSharp\Ejercicio3_capitulo2\Ejercicio3_capitulo2\obj\Debug\netcoreapp3.1\Ejercicio3_capitulo2.genruntimeconfig.cache
